@@ -1,3 +1,9 @@
 .js-data-example-ajax {
   min-width: 200px;
 }
+#billings li {
+  cursor: pointer;
+}
+#billings li.pass-entry {
+  opacity: 0.3;
+}
